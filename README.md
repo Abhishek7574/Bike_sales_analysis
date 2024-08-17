@@ -28,12 +28,3 @@ The dashboard visualizes the key insights from the dataset, focusing on the foll
 - **Customer Age Brackets**: A line chart showing the distribution of customers across different age brackets, segmented by whether they purchased a bike.
 - **Customer Commute**: A line chart displaying the count of bike purchases relative to commute distance.
 
-## Filters
-
-The dashboard includes interactive filters, allowing users to slice the data by:
-
-- **Marital Status**
-- **Region**
-- **Education**
-
-These filters provide a dynamic way to explore the dataset and gain more specific insights.
