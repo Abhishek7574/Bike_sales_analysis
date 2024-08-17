@@ -1,4 +1,4 @@
-# Bike Sales Analysis Dashboard
+# Bike Sales Analysis 
 
 This project is an analysis of bike sales data. The objective is to derive insights from the dataset and visualize the results in an interactive dashboard, which provides an overview of key metrics such as income, customer age brackets, and commute distances in relation to bike purchases.
 
